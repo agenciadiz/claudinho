@@ -215,3 +215,4 @@ Copiadas de repositórios públicos para `.claude/skills/` (carregadas automatic
 | `zeroize-audit` | trailofbits/skills |
 | `grill-me` | mattpocock/skills |
 | `grilling` | mattpocock/skills |
+| `frontend-design` | anthropics/skills |
