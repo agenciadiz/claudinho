@@ -213,3 +213,5 @@ Copiadas de repositórios públicos para `.claude/skills/` (carregadas automatic
 | `wycheproof` | trailofbits/skills |
 | `yara-rule-authoring` | trailofbits/skills |
 | `zeroize-audit` | trailofbits/skills |
+| `grill-me` | mattpocock/skills |
+| `grilling` | mattpocock/skills |
