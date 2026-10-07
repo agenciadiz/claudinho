@@ -217,3 +217,4 @@ Copiadas de repositórios públicos para `.claude/skills/` (carregadas automatic
 | `grilling` | mattpocock/skills |
 | `frontend-design` | anthropics/skills |
 | `find-skills` | vercel-labs/skills |
+| `web-design-guidelines` | vercel-labs/agent-skills (sem licença) |
