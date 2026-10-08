@@ -218,3 +218,4 @@ Copiadas de repositórios públicos para `.claude/skills/` (carregadas automatic
 | `frontend-design` | anthropics/skills |
 | `find-skills` | vercel-labs/skills |
 | `web-design-guidelines` | vercel-labs/agent-skills (sem licença) |
+| `ui-ux-pro-max` | nextlevelbuilder/ui-ux-pro-max-skill |
